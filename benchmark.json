@@ -1,0 +1,243 @@
+{
+  "as_of": "2026-06",
+  "source": "Novo invoicing data (anonymized, aggregated)",
+  "national_median_item": 155.0,
+  "segments": [
+    {
+      "segment": "Consulting",
+      "category": "Professional Services",
+      "n_invoices": 217681,
+      "job_p25": 360.0,
+      "job_median": 1200.0,
+      "job_p75": 3500.0,
+      "labor_per_hr": 100.0,
+      "service_call": 119.0
+    },
+    {
+      "segment": "Design & Creative",
+      "category": "Professional Services",
+      "n_invoices": 53594,
+      "job_p25": 219.0,
+      "job_median": 707.0,
+      "job_p75": 2040.0,
+      "labor_per_hr": 75.0,
+      "service_call": 72.0
+    },
+    {
+      "segment": "Other Professional & Creative",
+      "category": "Professional Services",
+      "n_invoices": 47893,
+      "job_p25": 200.0,
+      "job_median": 500.0,
+      "job_p75": 1598.0,
+      "labor_per_hr": 100.0,
+      "service_call": 75.0
+    },
+    {
+      "segment": "IT & Software Services",
+      "category": "Professional Services",
+      "n_invoices": 44714,
+      "job_p25": 436.0,
+      "job_median": 1750.0,
+      "job_p75": 5051.0,
+      "labor_per_hr": 100.0,
+      "service_call": 85.0
+    },
+    {
+      "segment": "Cleaning & Janitorial",
+      "category": "Trades & Field Services",
+      "n_invoices": 44368,
+      "job_p25": 140.0,
+      "job_median": 270.0,
+      "job_p75": 650.0,
+      "labor_per_hr": 150.0,
+      "service_call": 85.0
+    },
+    {
+      "segment": "Advertising & Marketing",
+      "category": "Professional Services",
+      "n_invoices": 22295,
+      "job_p25": 400.0,
+      "job_median": 1250.0,
+      "job_p75": 3500.0,
+      "labor_per_hr": 75.0,
+      "service_call": 250.0
+    },
+    {
+      "segment": "General Construction & Remodeling",
+      "category": "Trades & Field Services",
+      "n_invoices": 19972,
+      "job_p25": 200.0,
+      "job_median": 730.0,
+      "job_p75": 2626.0,
+      "labor_per_hr": 100.0,
+      "service_call": 100.0
+    },
+    {
+      "segment": "Landscaping & Lawn Care",
+      "category": "Trades & Field Services",
+      "n_invoices": 19049,
+      "job_p25": 60.0,
+      "job_median": 130.0,
+      "job_p75": 473.0,
+      "labor_per_hr": 50.0,
+      "service_call": 95.0
+    },
+    {
+      "segment": "Architecture & Engineering",
+      "category": "Professional Services",
+      "n_invoices": 17098,
+      "job_p25": 382.0,
+      "job_median": 1000.0,
+      "job_p75": 2699.0,
+      "labor_per_hr": 125.0,
+      "service_call": 250.0
+    },
+    {
+      "segment": "Concrete, Masonry & Other Trades",
+      "category": "Trades & Field Services",
+      "n_invoices": 16977,
+      "job_p25": 179.0,
+      "job_median": 375.0,
+      "job_p75": 1128.0,
+      "labor_per_hr": 80.0,
+      "service_call": 168.0
+    },
+    {
+      "segment": "Accounting, Bookkeeping & Tax",
+      "category": "Professional Services",
+      "n_invoices": 14459,
+      "job_p25": 150.0,
+      "job_median": 386.0,
+      "job_p75": 850.0,
+      "labor_per_hr": 50.0,
+      "service_call": 42.0
+    },
+    {
+      "segment": "Legal Services",
+      "category": "Professional Services",
+      "n_invoices": 9445,
+      "job_p25": 70.0,
+      "job_median": 284.0,
+      "job_p75": 1305.0,
+      "labor_per_hr": 45.0,
+      "service_call": 50.0
+    },
+    {
+      "segment": "Painting, Flooring & Finishing",
+      "category": "Trades & Field Services",
+      "n_invoices": 7827,
+      "job_p25": 300.0,
+      "job_median": 800.0,
+      "job_p75": 2150.0,
+      "labor_per_hr": 70.0,
+      "service_call": 50.0
+    },
+    {
+      "segment": "Appliance & Equipment Repair",
+      "category": "Trades & Field Services",
+      "n_invoices": 7730,
+      "job_p25": 120.0,
+      "job_median": 250.0,
+      "job_p75": 600.0,
+      "labor_per_hr": 100.0,
+      "service_call": 50.0
+    },
+    {
+      "segment": "Electrical",
+      "category": "Trades & Field Services",
+      "n_invoices": 5639,
+      "job_p25": 284.0,
+      "job_median": 610.0,
+      "job_p75": 1500.0,
+      "labor_per_hr": 120.0,
+      "service_call": 195.0
+    },
+    {
+      "segment": "Septic, Waste & Remediation",
+      "category": "Trades & Field Services",
+      "n_invoices": 3204,
+      "job_p25": 30.0,
+      "job_median": 120.0,
+      "job_p75": 450.0,
+      "labor_per_hr": 125.0,
+      "service_call": 285.0
+    },
+    {
+      "segment": "Roofing, Siding & Exterior",
+      "category": "Trades & Field Services",
+      "n_invoices": 2924,
+      "job_p25": 175.0,
+      "job_median": 636.0,
+      "job_p75": 2806.0,
+      "labor_per_hr": 60.0,
+      "service_call": 65.0
+    },
+    {
+      "segment": "HVAC & Plumbing",
+      "category": "Trades & Field Services",
+      "n_invoices": 2812,
+      "job_p25": 230.0,
+      "job_median": 574.0,
+      "job_p75": 1751.0,
+      "labor_per_hr": 125.0,
+      "service_call": 85.0
+    },
+    {
+      "segment": "Pest Control",
+      "category": "Trades & Field Services",
+      "n_invoices": 1354,
+      "job_p25": 76.0,
+      "job_median": 99.0,
+      "job_p75": 158.0,
+      "labor_per_hr": 180.0,
+      "service_call": null
+    },
+    {
+      "segment": "Heavy & Civil Construction",
+      "category": "Trades & Field Services",
+      "n_invoices": 1213,
+      "job_p25": 468.0,
+      "job_median": 1732.0,
+      "job_p75": 5196.0,
+      "labor_per_hr": 100.0,
+      "service_call": 215.0
+    },
+    {
+      "segment": "Security & Locksmith",
+      "category": "Trades & Field Services",
+      "n_invoices": 1035,
+      "job_p25": 190.0,
+      "job_median": 595.0,
+      "job_p75": 2500.0,
+      "labor_per_hr": 70.0,
+      "service_call": 78.0
+    }
+  ],
+  "regions": [
+    {
+      "region": "Northeast",
+      "n_items": 143126,
+      "median_item": 215.0,
+      "index": 1.39
+    },
+    {
+      "region": "West",
+      "n_items": 228105,
+      "median_item": 188.0,
+      "index": 1.21
+    },
+    {
+      "region": "Midwest",
+      "n_items": 133532,
+      "median_item": 150.0,
+      "index": 0.97
+    },
+    {
+      "region": "South",
+      "n_items": 408383,
+      "median_item": 150.0,
+      "index": 0.97
+    }
+  ]
+}
